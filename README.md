@@ -14,6 +14,13 @@ Android 開発で役に立つ情報を集約する
 
 ## UI
 
+### RecyclerView
+
+* https://github.com/andyb129/ZigzagRecyclerView
+    * 実装未確認
+    * 1行に画像を2つずつ配置し、ジグザクな線で区切るライブラリ
+    * 区切り線はジャギーが目立つ
+
 ## 機能
 
 ### 音楽プレイヤー
