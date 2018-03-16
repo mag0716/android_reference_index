@@ -10,6 +10,11 @@ Android 開発で役に立つ情報を集約する
 
 * https://github.com/pljp/kotlinx.coroutines/blob/japanese_translation/coroutines-guide.md
 
+#### Lint
+
+* https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
+    * ktlint にカスタムルールを追加する
+
 ## 設計
 
 ## UI
