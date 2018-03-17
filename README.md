@@ -32,4 +32,16 @@ Android 開発で役に立つ情報を集約する
 
 * [イマドキなAndroid音楽プレーヤーの作り方](https://qiita.com/siy1121/items/f01167186a6677c22435)
 
+## デザイン
+
+### Material Design
+
+* [Navigation Drawer](./MaterialDesign/NavigationDrawer.md)
+
+## デバッグ
+
+### Activity 再生成時などに余計な Fragment が add されていないかを確認する
+
+`adb shell dumpsys activity top`
+
 ## テスト
