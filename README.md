@@ -44,4 +44,8 @@ Android 開発で役に立つ情報を集約する
 
 `adb shell dumpsys activity top`
 
+### 他のアプリのレイアウトを調べる
+
+* https://speakerdeck.com/operando/dezainfalseshi-zhuang-wojie-ti-suruji-shu
+
 ## テスト
