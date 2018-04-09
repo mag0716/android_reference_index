@@ -32,6 +32,10 @@ Android 開発で役に立つ情報を集約する
 
 * [イマドキなAndroid音楽プレーヤーの作り方](https://qiita.com/siy1121/items/f01167186a6677c22435)
 
+### ExoPlayer
+
+* [Building a video player app in Android (Part 1 / 5)](https://medium.com/google-developers/building-a-video-player-app-in-android-part-1-5-d95770ef762d)
+
 ## デザイン
 
 ### Material Design
