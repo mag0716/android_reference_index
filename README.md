@@ -4,6 +4,13 @@ Android 開発で役に立つ情報を集約する
 
 ## 開発環境
 
+### Android Studio
+
+* https://developer.android.com/studio/index.html
+* https://developer.android.com/studio/preview/index.html
+* [Android Studio Release Notes](https://developer.android.com/studio/releases/index.html)
+* [Android Plugin for Gradle Release Notes](https://developer.android.com/studio/releases/gradle-plugin.html)
+
 ### Kotlin
 
 #### coroutines
