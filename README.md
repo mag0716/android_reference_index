@@ -22,6 +22,12 @@ Android 開発で役に立つ情報を集約する
 * https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
     * ktlint にカスタムルールを追加する
 
+### support library など
+
+#### Data Binding
+
+* https://github.com/googlesamples/android-databinding
+
 ## 設計
 
 ## UI
