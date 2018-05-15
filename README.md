@@ -31,6 +31,11 @@ Android 開発で役に立つ情報を集約する
 
 ## 設計
 
+## Fragment
+
+* http://nein37.hatenablog.com/entry/2018/05/06/204943
+    * setPrimaryNavigationFragment 知らなかった
+
 ## UI
 
 ### RecyclerView
