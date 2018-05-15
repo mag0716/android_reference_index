@@ -44,6 +44,11 @@ Android 開発で役に立つ情報を集約する
     * 実装未確認
     * 1行に画像を2つずつ配置し、ジグザクな線で区切るライブラリ
     * 区切り線はジャギーが目立つ
+    
+### Pinterest みたいなアスペクト比が異なる画像を表示する UI
+
+* [Aspect Ratio in Staggered LayoutManager using Constraint Layout](https://medium.com/@burhanrashid52/aspect-ratio-in-staggered-layoutmanager-using-constraint-layout-9845d04d1962)
+   * API で画像のサイズを取得して、ConstraintSet で適用している
 
 ## 機能
 
