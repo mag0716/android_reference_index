@@ -21,7 +21,7 @@ Android 開発で役に立つ情報を集約する
 #### Lint
 
 * https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8
-    * ktlint にカスタムルールを追加する
+    * ktlint にカスタムルールを追加する
 
 ### support library など
 
@@ -34,7 +34,7 @@ Android 開発で役に立つ情報を集約する
 ## Fragment
 
 * http://nein37.hatenablog.com/entry/2018/05/06/204943
-    * setPrimaryNavigationFragment 知らなかった
+   * setPrimaryNavigationFragment 知らなかった
 
 ## UI
 
@@ -49,6 +49,11 @@ Android 開発で役に立つ情報を集約する
 
 * [Aspect Ratio in Staggered LayoutManager using Constraint Layout](https://medium.com/@burhanrashid52/aspect-ratio-in-staggered-layoutmanager-using-constraint-layout-9845d04d1962)
    * API で画像のサイズを取得して、ConstraintSet で適用している
+
+### ViewPager
+
+* [https://medium.com/inloopx/adventures-with-fragmentstatepageradapter-4f56a643f8e0](https://medium.com/inloopx/adventures-with-fragmentstatepageradapter-4f56a643f8e0)
+    * FragmentPageStateAdapter よりも PageAdapter を継承したクラスを作った方がいい
 
 ## 機能
 
