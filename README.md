@@ -13,6 +13,8 @@ Android 開発で役に立つ情報を集約する
 
 ### Kotlin
 
+* [Cheat Sheet](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
+
 #### coroutines
 
 * https://github.com/pljp/kotlinx.coroutines/blob/japanese_translation/coroutines-guide.md
