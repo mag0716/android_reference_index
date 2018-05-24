@@ -73,6 +73,10 @@ Android 開発で役に立つ情報を集約する
 
 * [Navigation Drawer](./MaterialDesign/NavigationDrawer.md)
 
+## アニメーション
+
+* [Shape Shifter](https://shapeshifter.design/)
+
 ## デバッグ
 
 ### Activity 再生成時などに余計な Fragment が add されていないかを確認する
