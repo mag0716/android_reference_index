@@ -11,6 +11,10 @@ Android 開発で役に立つ情報を集約する
 * [Android Studio Release Notes](https://developer.android.com/studio/releases/index.html)
 * [Android Plugin for Gradle Release Notes](https://developer.android.com/studio/releases/gradle-plugin.html)
 
+### Jetpack
+
+* [Jetpackを使ったベストプラクティス](https://github.com/googlesamples/android-sunflower)
+
 ### Kotlin
 
 * [Cheat Sheet](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
@@ -46,7 +50,7 @@ Android 開発で役に立つ情報を集約する
     * 実装未確認
     * 1行に画像を2つずつ配置し、ジグザクな線で区切るライブラリ
     * 区切り線はジャギーが目立つ
-    
+
 ### Pinterest みたいなアスペクト比が異なる画像を表示する UI
 
 * [Aspect Ratio in Staggered LayoutManager using Constraint Layout](https://medium.com/@burhanrashid52/aspect-ratio-in-staggered-layoutmanager-using-constraint-layout-9845d04d1962)
