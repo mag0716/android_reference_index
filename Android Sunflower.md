@@ -55,6 +55,8 @@ https://github.com/googlesamples/android-sunflower/commit/ee23fbc7608ea99a6fdd00
 ## ViewModel
 
 * `ViewModelProvider.of` を通じて取得している
+* Factory は `ViewModelProvider.NewInstanceFactory` を継承している
+* Repository から取得し、LiveData をそのまま返すか、Transformations を使って変換する場合もある
 
 ## LiveData
 
@@ -70,3 +72,8 @@ https://github.com/googlesamples/android-sunflower/commit/ee23fbc7608ea99a6fdd00
   * DB 新規作成時に、assets から読み出して、DB に insert している
 
 ## Test
+
+* test は JUnit のみ
+* androidTest
+  * Activity の他に Dao, ViewModel もテストしている
+  * LiveData のテストのために、CountDownLatch を使ったユーティリティメソッドを用意している
