@@ -35,6 +35,15 @@ Android 開発で役に立つ情報を集約する
 
 * https://github.com/googlesamples/android-databinding
 
+### ライブラリ
+
+#### Parceler
+
+* [android-state](https://github.com/evernote/android-state)
+    * IcePick をベースとしたライブラリ
+        * Kotlin のクラスに対応していない IcePick の欠点を補うライブラリ
+        * IceKick というライブラリもあるが、Java と Kotlin が共存している時に2つのライブラリを使う必要がある
+
 ## 設計
 
 ## Fragment
@@ -44,12 +53,16 @@ Android 開発で役に立つ情報を集約する
 
 ## UI
 
+### Material Design
+
+* [Material Design](https://material.io/design/)
+
 ### RecyclerView
 
 * https://github.com/andyb129/ZigzagRecyclerView
-    * 実装未確認
-    * 1行に画像を2つずつ配置し、ジグザクな線で区切るライブラリ
-    * 区切り線はジャギーが目立つ
+    * 実装未確認
+    * 1行に画像を2つずつ配置し、ジグザクな線で区切るライブラリ
+    * 区切り線はジャギーが目立つ
 
 ### Pinterest みたいなアスペクト比が異なる画像を表示する UI
 
