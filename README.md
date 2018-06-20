@@ -104,4 +104,9 @@ Android 開発で役に立つ情報を集約する
 
 * https://speakerdeck.com/operando/dezainfalseshi-zhuang-wojie-ti-suruji-shu
 
+### apk を引っこ抜く
+
+* `adb shell dumpsys activity activities | grep apk | sed -e 's/ *baseDir=//g' | peco | xargs adb pull`
+   * https://qiita.com/operandoOS/items/6fa77037560e52d11352
+
 ## テスト
