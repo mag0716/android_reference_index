@@ -110,3 +110,8 @@ Android 開発で役に立つ情報を集約する
    * https://qiita.com/operandoOS/items/6fa77037560e52d11352
 
 ## テスト
+
+## よくハマるやつ
+
+* 同じ Drawable 触って、想定外の Drawable にも影響してしまう
+    * http://y-anz-m.blogspot.com/2010/10/androiddrawable-mutations.html
