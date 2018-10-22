@@ -109,6 +109,11 @@ Android 開発で役に立つ情報を集約する
 * `adb shell dumpsys activity activities | grep apk | sed -e 's/ *baseDir=//g' | peco | xargs adb pull`
    * https://qiita.com/operandoOS/items/6fa77037560e52d11352
 
+### Adaptive Icon の動きを確認する
+
+* https://github.com/nickbutcher/AdaptiveIconPlayground
+* https://adapticon.tooo.io/
+
 ## テスト
 
 ## よくハマるやつ
