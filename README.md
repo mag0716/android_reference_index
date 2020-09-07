@@ -23,6 +23,8 @@ Android 開発で役に立つ情報を集約する
 
 * https://github.com/pljp/kotlinx.coroutines/blob/japanese_translation/coroutines-guide.md
 * [Android Coroutine Recipes](https://proandroiddev.com/android-coroutine-recipes-33467a4302e9)
+* エラーハンドリング 
+    * https://www.lukaslechner.com/why-exception-handling-with-kotlin-coroutines-is-so-hard-and-how-to-successfully-master-it/
 
 #### Lint
 
